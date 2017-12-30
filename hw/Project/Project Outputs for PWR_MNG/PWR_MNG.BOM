@@ -1,0 +1,30 @@
+Bill of Material for PWR_MNG.PRJPCB
+On 2016/10/8 at 9:23:56
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0R_1%_0603          C1608-0603       2    R8, R39                      Resistor             
+ 100K_1%_0603        C1608-0603      10    R9, R25, R29, R31, R34, R37  Resistor             
+                                           R40, R41, R42, R54
+ 100nF_20%_0603      C1608-0603       6    C1, C2, C3, C6, C11, C12     Capacitor            
+ 10K _5%_0603        C1608-0603       1    R35                          Resistor             
+ 10uF_20%_1206       CC3216-1206      1    C4                           Capacitor            
+ 22pF_20%_0603       C1608-0603       2    C7, C10                      Capacitor            
+ 25mR_1%_3225        CR6332-2512      2    R3, R4                       Resistor             
+ 3043-1-1550         3043-1-1550_V1.10    2    U1, U2                       3043-1-1550          
+ 32.768kHz_SMD       XTAL-3216        1    Y3                           Crystal Oscillator   
+ 4.7uF_20%_0603      C1608-0603       1    C22                          Capacitor            
+ 8MHz_SMD            XTAL-P4mm_SMD    1    Y2                           Crystal Oscillator   
+ Header 3            XH-03H           1    P2                           Header, 3-Pin        
+ Header 6            SH-06S           1    P3                           Header, 6-Pin        
+ Header 6            XH-06H           1    P1                           Header, 6-Pin        
+ INA213              SC70-6           2    U16, U20                                          
+ MAX706S             SO-8             1    U9                                                
+ MSP430F149/249/449  QFP-64           1    U10                          MSP430F149/249/449   
+ ND                  END_1.5_2.8     17    A0+, A1+, A2+, A3+, A-, B0+                       
+                                           CHG+, CHG-, FLS, G, GND, RxD
+                                           S, TxD, V, VI, VO
+ ND                  END_3_6          4    G1, G2, G3, G4                                    
+ SS14                DO-214AB_SS14    1    D3                           Tunnel Diode - RLC Model 
+ SS14                LED0805          1    D1                           Schottky Diode       
+ XC6206              SO-G3/C2.5       1    U3                           XC6206               

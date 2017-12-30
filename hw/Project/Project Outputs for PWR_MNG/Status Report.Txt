@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [PWR_MNG.PRJPCB]
+   Generated File[PWR_MNG.BOM]
+   Generated File[PWR_MNG.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:23:56 On 2016/10/8
